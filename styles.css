@@ -1,0 +1,47 @@
+body {
+  background-color: lightgrey;
+}
+
+/* registration page  body section */
+.headReg {
+  padding-top: 10%;
+  font-weight: 400;
+  font-size: 2.2rem;
+}
+.headLog {
+  font-weight: 400;
+  font-size: 2.2rem;
+}
+/* .headings2{
+  color: #8F8F8F;
+} */
+
+/* title section */
+.login-wrap {
+  background: #fff;
+  border-radius: 10px;
+}
+
+.logBox {
+  padding-top: 10%;
+}
+
+
+/* log in details section */
+.input-group {
+  margin-bottom: 1rem;
+}
+
+/* checkbox section */
+.reg-Button {
+  text-align: right;
+}
+
+.sign-Button {
+  text-align: right;
+}
+
+.buttonCheck {
+  margin-bottom: 1rem;
+  font-size: .8rem;
+}
